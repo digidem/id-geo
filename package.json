@@ -1,0 +1,36 @@
+{
+  "name": "id-geo",
+  "version": "1.0.0-alpha1",
+  "description": "iDEditor iD.geo helper functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "ideditor",
+    "id",
+    "osm",
+    "geo"
+  ],
+  "author": "Gregor MacLennan",
+  "license": "WTFPL",
+  "dependencies": {
+    "iD": "git://github.com/openstreetmap/id.git#v1.7.4",
+    "lodash": "^3.10.1",
+    "rbush": "^1.4.1"
+  },
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "d3": "^3.5.6",
+    "mocha": "^2.3.3",
+    "smash": "0.0.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digidem/id-geo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/digidem/id-geo/issues"
+  },
+  "homepage": "https://github.com/digidem/id-geo#readme"
+}
