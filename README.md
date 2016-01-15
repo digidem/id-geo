@@ -1,3 +1,5 @@
+## Note that this repo is no longer in active development
+
 # iD-geo - geo functions from [iDEditor](https://github.com/openstreetmap/iD)
 
 [![build status](https://img.shields.io/travis/digidem/id-geo/master.svg)](https://travis-ci.org/digidem/id-geo)
